@@ -1,6 +1,7 @@
 # sorting.js
-Sorting JS
+Sorting data structures with algorithm
 
+Types:
 * Bubblesort
 * Mergesort (split, merge & sort)
 
