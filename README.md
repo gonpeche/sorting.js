@@ -1,9 +1,9 @@
-# sorting.js
-Sorting data structures with algorithm
+# Sorting.js
+Algorithms for sorting data structures
 
 Types:
 * Bubblesort
-* Mergesort (split, merge & sort)
+* Mergesort
 
-All the files have their own unit testing with Jasmine
+All the files have their own testing specs with Jasmine
 
